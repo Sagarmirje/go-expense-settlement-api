@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Go Expense Tracker & Bill Splitter
 
 A professional REST API built with Go to track shared group expenses and calculate optimal debt settlements.
